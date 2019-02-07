@@ -1,3 +1,10 @@
-welcome {
+.welcome {
     border: 3px solid red;
+}
+.background{
+    background-color: cadetblue;
+}
+.image{
+    background-image: url(https://spacenews.com/wp-content/uploads/2017/11/INFANTE-TEKEVER-879x485.jpg);
+    height:2000px ;
 }
